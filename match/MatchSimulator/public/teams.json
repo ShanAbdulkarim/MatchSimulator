@@ -1,0 +1,19 @@
+
+        {
+                "name":"Bournemouth",
+                "overall":78,
+                "formation":4231,                
+                "roster":[
+                        {"name":"Kepa Arrizabalaga","position":"GK","rating":"78"},
+                        {"name":"Adam Smith","position":"RB","rating":"75"},
+                        {"name":"Ilya Zabarnyi","position":"CB","rating":"81"},
+                        {"name":"Marcos Senesi","position":"CB","rating":"77"},
+                        {"name":"Julio Soler","position":"LB","rating":"71"},
+                        {"name":"Lewis Cook","position":"CDM","rating":"77"},
+                        {"name":"Ryan Christie","position":"CDM","rating":"78"},
+                        {"name":"Antoine Semenyo","position":"RW","rating":"81"},
+                        {"name":"Justin Kluivert","position":"CAM","rating":"79"},
+                        {"name":"Dango Ouattara","position":"LM","rating":"76"},
+                        {"name":"Evanilson","position":"ST","rating":"80"}
+                ]
+        }

@@ -1,0 +1,63 @@
+/*  Every Page  */
+.navItem{
+    color:black;
+    margin-left: 20px;
+}
+.flexBoxNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:15px;
+}
+
+/* Teams Display    */
+
+.displayContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:1em;
+    margin-top: 2em;
+    text-align: center;
+}
+.displayTable{
+    border:black solid 0.25em;
+    padding:2em;
+}
+
+/* Simulate Page */
+.teamTitle{
+    font-weight: 2px;
+    font-size: 15px;
+}
+
+.scorers{
+    display: flex;
+    flex-direction: column;
+    width:200px;
+
+}
+#s1{
+    justify-content: left;
+}
+#s2{
+    justify-content: right;
+    text-align: right;
+}
+.rowFlex{
+    display: flex;
+    flex-direction: row;
+    
+}
+.stats{
+    display: flex;
+    flex-direction: column;
+    gap:1rem;
+}
+.rowFlexSTat{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:2rem;
+}
